@@ -2,7 +2,7 @@
 There are the source code of paper: Toward Evolutionary Multitask Convolutional Neural Architecture Search. This paper have been pulished on IEEE Transaction on Evolutionary Computation.
 
 # NAS-Bench-201
-You can download the file MTNAS-201 to reproduce the MTNAS method on the NAS benchmark 201. Note that you should download the NAS201 dataset by yourself from https://github.com/D-X-Y/NAS-Bench-201 and place it in the same file with the .py file.
+You can download the file to reproduce the MTNAS method on the NAS benchmark 201. Note that you should download the NAS201 dataset by yourself from https://github.com/D-X-Y/NAS-Bench-201 and place it in the same file with the .py file.
 
 Source codes related to experiments on benchmarks Trans101 and DARTs will be updated latter. 
 
