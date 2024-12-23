@@ -8,7 +8,7 @@ Source codes related to experiments on benchmarks Trans101 and DARTs will be upd
 
 If you have only problem, you can contact to me by: xunzhou6-c@my.cityu.edu.hk
 
-Citation of this paper is：
+#Citation of this paper is：
 @article{zhou2023towards,
   title={Towards Evolutionary Multi-Task Convolutional Neural Architecture Search},
   author={Zhou, Xun and Wang, Zhenkun and Feng, Liang and Liu, Songbai and Wong, Ka-Chun and Tan, Kay Chen},
